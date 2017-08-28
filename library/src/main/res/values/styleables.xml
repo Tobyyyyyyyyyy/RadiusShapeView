@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RadiusShapeView">
+        <attr name="rsv_radius_color" format="color" />
+        <attr name="rsv_radius" format="dimension" />
+    </declare-styleable>
+</resources>
