@@ -14,13 +14,13 @@ This view need cover whole view and reset radius color from background color.
 
 ``` java
 <com.wt.radiusshapeview.RadiusShapeView
-            android:id="@+id/activity_main_shape"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_alignBottom="@+id/activity_main_content"
-            android:layout_alignLeft="@+id/activity_main_content"
-            android:layout_alignRight="@+id/activity_main_content"
-            android:layout_alignTop="@+id/activity_main_content" />
+	android:id="@+id/activity_main_shape"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_alignBottom="@+id/activity_main_content"
+	android:layout_alignLeft="@+id/activity_main_content"
+	android:layout_alignRight="@+id/activity_main_content"
+	android:layout_alignTop="@+id/activity_main_content" />
 ```
 
 ``` java 
@@ -31,7 +31,7 @@ activity_main_shape.setRadiusColor(resources.getColor(R.color.colorAccent))
 
 ### Demo
 
-![gif](https://github.com/wt1098078873/RadiusShapeView/blob/master/gifs/device-2017-08-28-175349.mp4)
+![gif](https://github.com/wt1098078873/RadiusShapeView/blob/master/gifs/device-2017-08-28-175349.gif)
 
 ## License
 
